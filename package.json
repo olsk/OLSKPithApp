@@ -1,6 +1,38 @@
 {
   "name": "OLSKPithApp",
   "dependencies": {
+    "// STORAGE": null,
+    "zerodatawrap": "0dataapp/0datawrap",
+    "webnative": "^0.21.3",
+    "OLSKRemoteStorage": "olsk/OLSKRemoteStorage",
+    "OLSKCloud": "olsk/OLSKCloud",
+    "OLSKObject": "olsk/OLSKObject",
+    "OLSKTransport": "olsk/OLSKTransport",
+    "ulid": "latest",
+
+    "// OFFLINE": null,
+    "OLSKRouting": "olsk/OLSKRouting",
+    "OLSKServiceWorker": "olsk/OLSKServiceWorker",
+    "OLSKInstall": "olsk/OLSKInstall",
+
+    "// TOOLBAR": null,
+    "OLSKAppToolbar": "olsk/OLSKAppToolbar",
+    "OLSKApropos": "olsk/OLSKApropos",
+    "OLSKLanguageSwitcher": "olsk/OLSKLanguageSwitcher",
+    "OLSKFund": "olsk/OLSKFund",
+    "OLSKModalView": "olsk/OLSKModalView",
+    "OLSKWebView": "olsk/OLSKWebView",
+    "launchlet": "latest",
+
+    "// DEMO": null,
+    "OLSKChain": "olsk/OLSKChain",
+    "OLSKBeacon": "olsk/OLSKBeacon",
+    "OLSKPointer": "olsk/OLSKPointer",
+
+    "// STYLE": null,
+    "normalize.css": "latest",
+    "OLSKDecor": "olsk/OLSKDecor",
+    "OLSKUIAssets": "olsk/OLSKUIAssets",
 
     "// I sacrifice myself for the commas of others": null    
   }
