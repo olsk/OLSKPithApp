@@ -3,7 +3,7 @@
   "dependencies": {
     "// STORAGE": null,
     "zerodatawrap": "0dataapp/0datawrap",
-    "webnative": "^0.21.3",
+    "webnative": "latest",
     "OLSKRemoteStorage": "olsk/OLSKRemoteStorage",
     "OLSKCloud": "olsk/OLSKCloud",
     "OLSKObject": "olsk/OLSKObject",
