@@ -1,7 +1,7 @@
 {
   "name": "OLSKPithApp",
   "dependencies": {
-    "// STORAGE": null,
+    "//": "STORAGE",
     "zerodatawrap": "0dataapp/0datawrap",
     "webnative": "latest",
     "OLSKRemoteStorage": "olsk/OLSKRemoteStorage",
@@ -10,12 +10,12 @@
     "OLSKTransport": "olsk/OLSKTransport",
     "ulid": "latest",
 
-    "// OFFLINE": null,
+    "//": "OFFLINE",
     "OLSKRouting": "olsk/OLSKRouting",
     "OLSKServiceWorker": "olsk/OLSKServiceWorker",
     "OLSKInstall": "olsk/OLSKInstall",
 
-    "// TOOLBAR": null,
+    "//": "TOOLBAR",
     "OLSKAppToolbar": "olsk/OLSKAppToolbar",
     "OLSKApropos": "olsk/OLSKApropos",
     "OLSKLanguageSwitcher": "olsk/OLSKLanguageSwitcher",
@@ -24,12 +24,12 @@
     "OLSKWebView": "olsk/OLSKWebView",
     "launchlet": "latest",
 
-    "// DEMO": null,
+    "//": "DEMO",
     "OLSKChain": "olsk/OLSKChain",
     "OLSKBeacon": "olsk/OLSKBeacon",
     "OLSKPointer": "olsk/OLSKPointer",
 
-    "// STYLE": null,
+    "//": "STYLE",
     "normalize.css": "latest",
     "OLSKDecor": "olsk/OLSKDecor",
     "OLSKUIAssets": "olsk/OLSKUIAssets",
