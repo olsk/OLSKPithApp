@@ -7,7 +7,7 @@
     "OLSKCloud": "olsk/OLSKCloud",
     "OLSKObject": "olsk/OLSKObject",
     "OLSKTransport": "olsk/OLSKTransport",
-    "ulid": "latest",
+    "ulid": "2.x",
 
     "OLSKRouting": "olsk/OLSKRouting",
     "OLSKServiceWorker": "olsk/OLSKServiceWorker",
