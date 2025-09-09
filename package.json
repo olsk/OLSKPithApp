@@ -2,7 +2,6 @@
   "name": "OLSKPithApp",
   "dependencies": {
     "zerodatawrap": "0dataapp/0datawrap",
-    "webnative": "latest",
     "OLSKRemoteStorage": "olsk/OLSKRemoteStorage",
     "OLSKCloud": "olsk/OLSKCloud",
     "OLSKObject": "olsk/OLSKObject",
